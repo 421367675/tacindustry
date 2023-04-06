@@ -1,0 +1,13 @@
+.wrap{
+	width:100%;
+	padding-top:50px;
+	height: 550px;
+	margin:0 auto;
+	background: url(../topbg.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+.t{
+	margin-top:50px;
+}
